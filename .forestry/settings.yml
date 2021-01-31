@@ -25,7 +25,7 @@ sections:
   - page
   - post
 upload_dir: home/assets
-public_path: https://cloudinary.com/console/c-ea3a21d4202f170a315f74b95ad3cd/media_library/folders/726c124f46ac045252f03aeb1efe8025
+public_path: https://res.cloudinary.com/studio-b/image/upload
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
