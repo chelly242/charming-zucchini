@@ -25,9 +25,9 @@ sections:
   - page
   - post
 upload_dir: home/assets
-public_path: CLOUDINARY_URL=cloudinary://428426985648642:G6iniFRROEJgYal0G0bo-OLiYrI@studio-b
+public_path: https://res.cloudinary.com/studio-b/image/upload
 front_matter_path: ''
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
