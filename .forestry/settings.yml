@@ -6,7 +6,7 @@ webhook_url: https://api.stackbit.com/project/6017171afaecfb0016ac94a0/webhook/f
 sections:
 - type: directory
   path: content/code-posts
-  label: 100DaysofCode Posts
+  label: Code Posts
   create: documents
   match: "**/*"
   templates:
