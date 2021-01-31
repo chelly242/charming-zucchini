@@ -1,4 +1,4 @@
-# ✨ charming-zucchini ✨
+# ✨ studio-b ✨
 
 <img src="https://themes.stackbit.com/images/fresh-demo-1024x768.png" width="600">
 

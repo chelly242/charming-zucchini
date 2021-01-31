@@ -1,14 +1,14 @@
-title: Stackbit Fresh Theme
+title: Studio B
 baseURL: /
 params:
-  description: Personal blogging theme for Stackbit
+  description: Engineering and Programming Blog
   layout_style: overflow
-  palette: blue
+  palette: orange
   header:
     type: header
     template: header
-    title: Stackbit Fresh
-    tagline: Header Tagline
+    title: Studio B
+    tagline: An Engineering and Programming Blog
     profile_img: images/avatar.png
     profile_img_alt: Author avatar
     background: dark
@@ -26,8 +26,8 @@ params:
         style: link
       - type: action
         template: action
-        label: Style Guide
-        url: /style-guide/
+        label: 100DaysofCode
+        url: /code-100/
         style: link
       - type: action
         template: action
@@ -50,41 +50,18 @@ params:
         new_window: true
       - type: action
         template: action
-        label: Instagram
-        url: 'https://www.instagram.com/'
-        style: icon
-        icon_class: fa-instagram
-        new_window: true
-      - type: action
-        template: action
         label: GitHub
         url: 'https://github.com/'
         style: icon
         icon_class: fa-github
         new_window: true
-      - type: action
-        template: action
-        label: LinkedIn
-        url: 'https://www.linkedin.com/'
-        style: icon
-        icon_class: fa-linkedin
-        new_window: true
-      - type: action
-        template: action
-        label: DEV
-        url: 'https://dev.to/'
-        style: icon
-        icon_class: fa-dev
-        new_window: true
   footer:
     type: footer
     template: footer
     content: >-
-      &copy; Stackbit. All rights reserved. This Jamstack site was created with
+      &copy; Studio B. All rights reserved. This Jamstack site was created with love and 
       <a href="https://www.stackbit.com/?utm_source=deployed-footer"
-      target="_blank" rel="noopener">Stackbit</a>. Create yours <a
-      href="https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer"
-      target="_blank" rel="noopener">now</a>
+      target="_blank" rel="noopener">Stackbit</a>.
 taxonomies:
   stub: stub
 disableKinds:
