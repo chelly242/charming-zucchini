@@ -32,7 +32,6 @@ sections:
   templates:
   - advanced
   - page
-  - post
 upload_dir: home/assets
 public_path: https://res.cloudinary.com/studio-b/image/upload
 front_matter_path: ''
