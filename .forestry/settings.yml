@@ -5,6 +5,13 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/6017171afaecfb0016ac94a0/webhook/forestry
 sections:
 - type: directory
+  path: content/code-posts
+  label: 100DaysofCode Posts
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
   path: content/posts
   label: Posts
   create: documents
