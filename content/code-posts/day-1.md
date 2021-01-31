@@ -1,18 +1,16 @@
 ---
 title: Day 1
-date: '2018-01-09'
-thumb_img_path: images/6.jpg
+date: 2018-01-09
+thumb_img_path: https://res.cloudinary.com/studio-b/image/upload/v1611277114/home/assets/jainath-ponnala-9wWX_jwDHeM-unsplash_1_ahyqjk.jpg
 thumb_img_alt: Hikers on the trail
-content_img_path: images/6.jpg
+content_img_path: https://res.cloudinary.com/studio-b/image/upload/v1611277105/home/assets/jon-tyson-566CgCRSNCk-unsplash_akpzf6.jpg
 content_img_alt: Hikers on the trail
-excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+excerpt: Hiking can sometimes involves bushwhacking and hiking is sometimes referred
+  to as such. This specifically refers to difficult walking through dense forest,
+  undergrowth, or bushes, where forward progress requires pushing vegetation aside.
 layout: code-posts
----
 
+---
 Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
 
 In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
