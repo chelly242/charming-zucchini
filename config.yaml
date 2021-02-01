@@ -44,14 +44,21 @@ params:
       - type: action
         template: action
         label: Twitter
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/chelly_242'
         style: icon
         icon_class: fa-twitter
         new_window: true
       - type: action
         template: action
+        label: Instagram
+        url: 'https://www.instagram.com/studiob_squared/'
+        style: icon
+        icon_class: fa-instagram
+        new_window: true
+      - type: action
+        template: action
         label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/chelly242'
         style: icon
         icon_class: fa-github
         new_window: true
